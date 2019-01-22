@@ -1,7 +1,7 @@
 <template>
     <div class="container">
         <div class="pa__head">
-            <BreadCrumbs :list="bg" />
+            <bread-crumbs :list="bg" />
             <div class="pa__title">
                 <h1 class="bk-title">{{title}}</h1>
             </div>
